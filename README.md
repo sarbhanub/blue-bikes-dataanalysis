@@ -24,14 +24,15 @@ Dataset Bucket: [[link]](https://s3.amazonaws.com/hubway-data/index.html)
 
 ### Objectives
 
-- Locationwise station details and most and least travelled stations.
-- Heatmap of trips for the last four years. 
-- Details about trips. How does the usual commute look like? Subscription wise, Gender wise.
-- What are the peak hours and peak weekdays? What are the most travelled routes?
-- Age groups. Subscription status by age groups.
+- Locationwise station details and most and least used stations.
+- Heatmap of trips for the last four years.
+- Details about trips. How does the usual commute look like durationwise? Subscription wise.
+- Trips taken by male and female Bluebikers.
+- What are the peak hours and peak weekdays? What are the most frequently travelled routes, yearwise?
+- Age groups. Subscription status by the age groups.
 - Trips taken at late hours, Agewise. 
-- Trends of the trips so far. Forecast for the next year.
-- Weather factors that might influence the number of trips taken.
+- Trends of the trips taken. What were the busiest months? Estimation of total trips for the coming year.
+- Weather conditions and factors that might influence Bluebikers.
 
 ## Tableau Dashboard [[link]](https://bit.ly/3VCEDWf)
 
