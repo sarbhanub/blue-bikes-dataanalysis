@@ -19,6 +19,20 @@ It includes:
 
 Home: [[link]](https://www.bluebikes.com/system-data)\
 Dataset Bucket: [[link]](https://s3.amazonaws.com/hubway-data/index.html)
+
+## About the Analysis
+
+### Objectives behind
+
+- Locationwise station details and most and least travelled stations.
+- Heatmap of trips for the last four years. 
+- Details about trips. How does the usual commute look like? Subscription wise, Gender wise.
+- What are the peak hours and peak weekdays? What are the most travelled routes?
+- Age groups. Subscription status by age groups.
+- Trips taken at late hours, Agewise. 
+- Trends of the trips so far. Forecast for the next year.
+- Weather factors that might influence the number of trips taken.
+
 ## Tableau Dashboard [[link]](https://bit.ly/3VCEDWf)
 
 The Dashboards in this project is built using Tableu Public.
@@ -27,22 +41,27 @@ The Dashboards in this project is built using Tableu Public.
 
 **Stations**
 
-![Dashboard1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/stations.jpg)
+![Dashboard1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/stations.png)
 
 **Trips**
 
-![Dashboard2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.jpg)
+![Dashboard2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.png)
 
 **Trends**
 
-![Dashboard3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.jpg)
+![Dashboard3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.png)
 
 **By Age**
-![Dashboard4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.jpg)
+![Dashboard4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
 
-**Weatherwise 2022**
+**Forecast for 2023**
 
-![Dashboard5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/weatherwise_2022.jpg)
+![Dashboard5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/forecast_2023.png)
+
+**Weather influence**
+
+![Dashboard6](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/weatherwise_2022.png)
+
 ## Pre-processing
 
 Below are the steps performed using Pandas and NumPy on this notebook file in order to convert the collected data to a managable format which can be used for visualization.
