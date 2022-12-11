@@ -22,7 +22,7 @@ Dataset Bucket: [[link]](https://s3.amazonaws.com/hubway-data/index.html)
 
 ## About the Analysis
 
-### Objectives behind
+### Objectives
 
 - Locationwise station details and most and least travelled stations.
 - Heatmap of trips for the last four years. 
