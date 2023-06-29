@@ -12,26 +12,26 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 **Stations**
 
-![Dashboard1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/stations.png)
+![page-0](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/stations.png)
 
 **Trips**
 
-![Dashboard2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.png)
+![page-1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.png)
 
 **Trends**
 
-![Dashboard3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.png)
+![page-2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.png)
 
-**By Age**
-![Dashboard4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
+**By age**
+![page-3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
 
-**Forecast for 2023**
+**Temp. & Precipitation**
 
-![Dashboard5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/forecast_2023.png)
+![page-4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/temp_prec.png)
 
-**Weather influence**
+**UV Index & Humidity**
 
-![Dashboard6](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/weatherwise_2022.png)
+![page-5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/uv_hum.png)
 
 
 ## About Data Source
