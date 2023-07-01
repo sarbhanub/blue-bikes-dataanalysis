@@ -22,16 +22,16 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 ![page-2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.png)
 
-**By age**
+**Trends by age**
 ![page-3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
 
-**Temp. & Precipitation**
+**Seasonality**
 
-![page-4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/temp_prec.png)
+![page-4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/seasonality.png)
 
-**UV Index & Humidity**
+**Rain
 
-![page-5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/uv_hum.png)
+![page-5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/rain.png)
 
 
 ## About Data Source
@@ -66,8 +66,8 @@ Below are the steps performed using Pandas and NumPy on this notebook file in or
 
 ### Analyzing available features
 
-Motivate International, Inc publishes their data each month, so in order to get a time series for 4 years, from Jan, 2019 to Nov, 22 which gives
-47 seperate files. [As of 11/06/2022, Nov-22 is the last data published.]
+Motivate International, Inc publishes their data each month, so in order to get a time series for 4 years, from Jan, 2019 to Dec, 22 which gives
+48 seperate files. [As of 01/09/2023, Dec-22 is the last data published.]
 
 * Merging Data in seperate dataframes **by Year** (2019, 2020, 2021, 2022)
 * Extracting the Features from each set.
@@ -104,8 +104,8 @@ Note: Since all of the years don't contain same features and sometimes aren't of
 | 2019 | `(2522771, 15)` |
 | 2020 | `(2073448, 16)` |
 | 2021 | `(2934378, 14)` |
-| 2022 | `(3614369, 14)` |
-| Total | `(11144966, 15)` |
+| 2022 | `(3757281, 14)` |
+| Total | `(11287878, 15)` |
 
 #### Data after Cleaning
 
@@ -171,14 +171,14 @@ Adding the Key
 
 #### Adding weather information to the analysis
 
-Also, added the Weather data for each day from Jan, 2019 to Nov, 2022
+Also, added the Weather data for each day from Jan, 2019 to Dec, 2022
 Used Visualcrossing's [[link]](https://www.visualcrossing.com/) weather data here.
 
-**Weather Data:** [[View CSV]](https://github.com/sarbhanub/blue-bikes-dataanalysis/tree/master/tableau/weather_history.csv)
+**Weather Data:** [[View CSV]](https://github.com/sarbhanub/blue-bikes-dataanalysis/tree/master/tableau/weather_data.csv)
 
 | Name | Type | Description |
 | :------ | :------- | :----- |
-| `datetime` | `string` | Each day from Jan, 2019 to Nov, 2022 |
+| `datetime` | `string` | Each day from Jan, 2019 to Dec, 2022 |
 | `temp` | `float` | Temprature |
 | `dew` | `float` | Dew |
 | `humidity` | `float` | Humidity |
@@ -195,4 +195,4 @@ Used Visualcrossing's [[link]](https://www.visualcrossing.com/) weather data her
 
 | Before | After | Reduction |
 | :------ | :------- | :------ |
-| 2.27 GB | 1.23 GB | ~ 54.2% |
+| 2.30 GB | 1.24 GB | ~ 46.08% |
