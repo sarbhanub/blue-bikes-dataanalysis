@@ -18,9 +18,9 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 ![page-1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.png)
 
-**Trends**
+**New trends**
 
-![page-2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trends.png)
+![page-2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/new_trends.png)
 
 **Trends by age**
 ![page-3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
@@ -29,7 +29,7 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 ![page-4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/seasonality.png)
 
-**Rain
+**Rain**
 
 ![page-5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/rain.png)
 
