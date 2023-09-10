@@ -12,26 +12,26 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 **Stations**
 
-![page-0](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/stations.png)
+![page-0](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/stations.png)
 
 **Trips**
 
-![page-1](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/trips.png)
+![page-1](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/trips.png)
 
 **New trends**
 
-![page-2](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/new_trends.png)
+![page-2](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/new_trends.png)
 
 **Trends by age**
-![page-3](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/by_age.png)
+![page-3](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/by_age.png)
 
 **Seasonality**
 
-![page-4](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/seasonality.png)
+![page-4](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/seasonality.png)
 
 **Rain**
 
-![page-5](https://raw.githubusercontent.com/sarbhanub/blue-bikes-dataanalysis/master/images/dashboards/rain.png)
+![page-5](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/rain.png)
 
 
 ## About Data Source
@@ -129,7 +129,7 @@ NB: Files are not included with the repository. Again, source data files can be 
 
 Collected station information from the availabe data:
 
-Station Data: [[View CSV]](https://github.com/sarbhanub/blue-bikes-dataanalysis/tree/master/tableau/bluebikes_stations.csv)
+Station Data: [[View CSV]](https://github.com/sarbhanub/tableau-bluebikes/tree/master/tableau/bluebikes_stations.csv)
 
 | Name | Type | Description |
 | :------ | :------- | :----- |
@@ -146,7 +146,7 @@ Station Data: [[View CSV]](https://github.com/sarbhanub/blue-bikes-dataanalysis/
 #### Geocoding API
 
 Here we used Geocodeio's [[link]](https://www.geocod.io/docs/?python#reverse-geocoding) API for python to reverse geocode some of the referenced latitudes and longitudes to fetch geographical information and categorical features about the stations and terminal locations.  
-More on the implementation here at **In [88]** of this notebook. [[link]](https://github.com/sarbhanub/blue-bikes-dataanalysis/blob/master/Blue%20Bikes%20Data%20Preprocessing.ipynb)
+More on the implementation here at **In [88]** of this notebook. [[link]](https://github.com/sarbhanub/tableau-bluebikes/blob/master/Blue%20Bikes%20Data%20Preprocessing.ipynb)
 
 Unofficial package for Geocodeio Python API from bennylope/pygeocodio by bennylope. [[link]](https://github.com/bennylope/pygeocodio)
 
@@ -174,7 +174,7 @@ Adding the Key
 Also, added the Weather data for each day from Jan, 2019 to Dec, 2022
 Used Visualcrossing's [[link]](https://www.visualcrossing.com/) weather data here.
 
-**Weather Data:** [[View CSV]](https://github.com/sarbhanub/blue-bikes-dataanalysis/tree/master/tableau/weather_data.csv)
+**Weather Data:** [[View CSV]](https://github.com/sarbhanub/tableau-bluebikes/tree/master/tableau/weather_data.csv)
 
 | Name | Type | Description |
 | :------ | :------- | :----- |
