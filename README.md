@@ -12,11 +12,11 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 **Stations**
 
-![page-1](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Stations.png)
+![page-1](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Stations-1.png)
 
 **Trips**
 
-![page-2](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Trips.png)
+![page-2](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Trips-1.png)
 
 **Trends**
 
