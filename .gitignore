@@ -1,5 +1,4 @@
 /data
-*.twbx
 *.db
 *.zip
 bluebikes_trips.csv
