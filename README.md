@@ -12,29 +12,29 @@ The Dashboard is live on Tableau Public: [[View Dashboard]](https://public.table
 
 **Stations**
 
-![page-0](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/stations.png)
+![page-1](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Stations.png)
 
 **Trips**
 
-![page-1](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/trips.png)
+![page-2](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Trips.png)
 
-**New trends**
+**Trends**
 
-![page-2](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/new_trends.png)
+![page-3](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Trends.png)
 
-**Trends by age**
-![page-3](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/by_age.png)
+**Groups**
+![page-4](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Groups.png)
 
-**Seasonality**
+**Seasonal**
 
-![page-4](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/seasonality.png)
+![page-5](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Seasonal.png)
 
-**Rain**
+**Weather**
 
-![page-5](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/rain.png)
+![page-6](https://raw.githubusercontent.com/sarbhanub/tableau-bluebikes/master/images/dashboards/Weather.png)
 
 
-## About Data Source
+## Data Source
 
 The datasets used in this project are provided by Blue Bikes (Motivate International, Inc.)
 
